@@ -1,4 +1,8 @@
-# AR ph1 運用フロー
+---
+layout: page
+title: AR ph1 運用フロー
+permalink: /ar-ph1-operation/
+---
 
 AR ph1運用における依頼受付からデータ反映までの手順、担当、備考を整理しています。
 
